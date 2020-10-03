@@ -11,7 +11,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
  * Convolutional Neural Networks
  * Sequence Models
  
- ## Specialization creadted by
+ ## Specialization Creadted By
  
  ![Deep Learning AI](https://user-images.githubusercontent.com/63115543/95002479-2e034200-059a-11eb-9f75-24238e668228.png)
  
